@@ -42,7 +42,7 @@ divisor = int(input())
 number(minimum,maximum,divisor)
 
 
-## TAsk 3
+## Task 3
 menu = {'BBQ Chicken Cheese Burger':250,'Beef Burger':170,'Naga Drums':200}
 
 def total_price(items_name,location):
